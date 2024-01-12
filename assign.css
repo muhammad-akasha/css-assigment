@@ -1,0 +1,18 @@
+*{text-transform: capitalize;}
+body{background: rgb(219, 173, 201)}
+h1{color: darkblue;background: lightblue;text-transform: uppercase}
+h3{color: rgb(57, 214, 57);background: darkgreen}
+.thirdsen{color: rgb(116, 48, 116);background: yellow}
+p{color: rgb(170, 255, 1);background: darkcyan;text-transform: capitalize}
+.second{color: brown;background: pink}
+.secpara{color: orange;background: #556b2f}
+ul > li > a{color: red;background: #f1ff1d}
+.three{color: rebeccapurple;background: powderblue}
+.f0{font-weight: bolder;background: greenyellow;margin-left: 500px;text-align: center;display: inline;font-size: 30px;text-transform: uppercase;text-decoration: underline}
+.f1{font-style: italic;background: chartreuse;color: beige;font-size: 20px;font-weight: 800}
+.f2{font-size: 20px;font-family: sans-serif;background: aliceblue;color: violet}
+
+.f3{font-weight: bold;font-family: monospace;font-size: 20px;background: tomato;color: rgb(2, 59, 59)}
+
+.f4{font-size: 20px;font-weight: 600;font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: 20px;background: springgreen;color: rgb(26, 67, 109)}
+li a{color: rgb(17, 255, 176);background: rgb(255, 56, 56);font-size: 17px}
